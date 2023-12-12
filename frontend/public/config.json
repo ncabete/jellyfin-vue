@@ -1,4 +1,4 @@
 {
-  "defaultServerURLs": [],
+  "defaultServerURLs": ['jellyfin.finalspace.pt'],
   "routerMode": "hash"
 }
